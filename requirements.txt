@@ -1,4 +1,0 @@
-pandas
-polygon
-
-(Your registered polygon API key, in a file called "config.txt")
