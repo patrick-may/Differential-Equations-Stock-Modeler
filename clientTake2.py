@@ -30,4 +30,4 @@ def rangeQuery(ticker):
 
 
 if __name__ == "__main__":
-    rangeQuery("SPY")
+    rangeQuery("VIXY")
